@@ -25,7 +25,7 @@ A liga oferece um relay [^4] que as instâncias participantes podem, opcionalmen
 [^3]: Usuáries atives aqui usa a definição da página de entrada do Mastodon. Aceita-se um período de transição de até 2 semanas quando a instância estiver em fase de crescimento onde esse limite pode ser passado, até que se encontre novas pessoas para ajudar na moderação. O importante é que mesmo nesse período a instância não esteja "abandonada" em termos de moderação.
 [^4]: Relay: Um software que republica mensagens públicas entre instâncias diferentes. Instâncias que estejam inscritas no mesmo relay enviam seus toots públicos ao relay e recebem de volta todos os toots públicos de outras instâncias do relay.
 
-## Regras da Instância
+## Regras
 
 ## Código de conduta
 
